@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Xiaomi IMEI information/1.0.0": {
+        "runtime": {
+          "Xiaomi IMEI information.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Xiaomi IMEI information/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

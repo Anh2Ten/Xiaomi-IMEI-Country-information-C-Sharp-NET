@@ -1,0 +1,16 @@
+C:\Users\ducan\source\repos\Xiaomi IMEI information\bin\Debug\net6.0-windows\Xiaomi IMEI information.exe
+C:\Users\ducan\source\repos\Xiaomi IMEI information\bin\Debug\net6.0-windows\Xiaomi IMEI information.deps.json
+C:\Users\ducan\source\repos\Xiaomi IMEI information\bin\Debug\net6.0-windows\Xiaomi IMEI information.runtimeconfig.json
+C:\Users\ducan\source\repos\Xiaomi IMEI information\bin\Debug\net6.0-windows\Xiaomi IMEI information.dll
+C:\Users\ducan\source\repos\Xiaomi IMEI information\bin\Debug\net6.0-windows\Xiaomi IMEI information.pdb
+C:\Users\ducan\source\repos\Xiaomi IMEI information\obj\Debug\net6.0-windows\Xiaomi_IMEI_information.Form1.resources
+C:\Users\ducan\source\repos\Xiaomi IMEI information\obj\Debug\net6.0-windows\Xiaomi IMEI information.csproj.GenerateResource.cache
+C:\Users\ducan\source\repos\Xiaomi IMEI information\obj\Debug\net6.0-windows\Xiaomi IMEI information.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ducan\source\repos\Xiaomi IMEI information\obj\Debug\net6.0-windows\Xiaomi IMEI information.AssemblyInfoInputs.cache
+C:\Users\ducan\source\repos\Xiaomi IMEI information\obj\Debug\net6.0-windows\Xiaomi IMEI information.AssemblyInfo.cs
+C:\Users\ducan\source\repos\Xiaomi IMEI information\obj\Debug\net6.0-windows\Xiaomi IMEI information.csproj.CoreCompileInputs.cache
+C:\Users\ducan\source\repos\Xiaomi IMEI information\obj\Debug\net6.0-windows\Xiaomi IMEI information.dll
+C:\Users\ducan\source\repos\Xiaomi IMEI information\obj\Debug\net6.0-windows\refint\Xiaomi IMEI information.dll
+C:\Users\ducan\source\repos\Xiaomi IMEI information\obj\Debug\net6.0-windows\Xiaomi IMEI information.pdb
+C:\Users\ducan\source\repos\Xiaomi IMEI information\obj\Debug\net6.0-windows\Xiaomi IMEI information.genruntimeconfig.cache
+C:\Users\ducan\source\repos\Xiaomi IMEI information\obj\Debug\net6.0-windows\ref\Xiaomi IMEI information.dll

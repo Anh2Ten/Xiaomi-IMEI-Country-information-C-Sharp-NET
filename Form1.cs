@@ -24,7 +24,7 @@ namespace Xiaomi_IMEI_information
         {
             try
             {
-                byte[] imageBytes = client.DownloadData("https://anhotaku.xyz/captcha.php");
+                byte[] imageBytes = client.DownloadData("https://anhotaku.xyz/api/mi/captcha.php");
                 pictureBox1.Image = Image.FromStream(new System.IO.MemoryStream(imageBytes));
             }
             catch (Exception ex)
@@ -40,7 +40,7 @@ namespace Xiaomi_IMEI_information
                 string imeiText = imei.Text;
                 string captchaCode = captcha.Text;
 
-                string getUrl = $"https://anhotaku.xyz/api.php?imei={imeiText}&code={captchaCode}";
+                string getUrl = $"https://anhotaku.xyz/api/mi/api.php?imei={imeiText}&code={captchaCode}";
 
                 string response = client.DownloadString(getUrl);
 
